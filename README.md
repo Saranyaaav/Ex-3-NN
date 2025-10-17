@@ -1,7 +1,7 @@
 <H3>Name: Saranya V</H3>
 <H3>Register Number: 212223040188</H3>
 <H3>EX. NO.3</H3>
-<H3>DATE:18-10-2025</H3>
+<H3>DATE: 18-10-2025</H3>
 <H2 aligh = center> Implementation of MLP for a non-linearly separable data</H2>
 <h3>Aim:</h3>
 To implement a perceptron for classification using Python
